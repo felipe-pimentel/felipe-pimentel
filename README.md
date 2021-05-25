@@ -22,8 +22,12 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" alt="React logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/redux/redux-original.svg" alt="Redux logo">
   <img height="40" src="https://symbols.getvecta.com/stencil_25/41_jest.f1b91430ae.svg" alt="Jest logo">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" alt="Figma logo">
 </p>
 <p>
+</p>
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg" alt="Linux logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash icon">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code logo">
@@ -31,7 +35,6 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/trello/trello-plain.svg" alt="Trello logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/slack/slack-original.svg" alt="Slack logo">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" alt="Figma logo">
 </p>
 
 ## Contato
