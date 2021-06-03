@@ -21,7 +21,7 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" alt="JavaScript logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" alt="React logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/redux/redux-original.svg" alt="Redux logo">
-  <img height="40" src="https://symbols.getvecta.com/stencil_25/41_jest.f1b91430ae.svg" alt="Jest logo">
+  <img height="40" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.svg" alt="Jest logo">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" alt="Figma logo">
 </p>
 <p>
