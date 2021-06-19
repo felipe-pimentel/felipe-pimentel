@@ -20,38 +20,20 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
 
 > ### Front-End
 > ---
-> ![HTML logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg#skills)
-  ![CSS logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg#skills)
-  ![Sass logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sass/sass-original.svg#skills)
-  ![JavaScript logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg#skills)
-  ![React logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg#skills)
-  ![Redux logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/redux/redux-original.svg#skills)
-  ![Jest logo](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg#skills)
-  ![Figma logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg#skills)
-  <!-- ![Next.js logo](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg#skills) -->
+> <span><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" alt="HTML logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" alt="CSS logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sass/sass-original.svg" alt="Sass logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" alt="Javascript logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" alt="React logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/redux/redux-original.svg" alt="Redux logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" alt="Jest logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" alt="Figma logo" height=40> <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg" alt="Next.js logo" height=40> --></span>
 
 > ### Back-End
 > ---
-> ![MySQL logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg#skills)
-  ![MongoDB logo](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original-wordmark.svg#skills)
-  ![Node.js logo](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg#skills)
-  ![NPM logo](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg#skills)
-
+> <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="Node.js logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" alt="NPM logo" height=40></span>
 
 > ### Versionamento e Gerenciamento de Projetos
 > ---
-> ![Git logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg#skills)
-  ![GitHub logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg#skills)
-  ![Scrum icon](https://about.gitlab.com/images/icons/scrum.svg#skills)
-  ![Kanban icon](https://about.gitlab.com/images/icons/kanban.svg#skills)
-  ![Trello logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/trello/trello-plain.svg#skills)
-  ![Slack logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/slack/slack-original.svg#skills)
+> <span><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" alt="Git logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub logo" height=40> <img src="https://about.gitlab.com/images/icons/scrum.svg" alt="Scrum icon" height=40> <img src="https://about.gitlab.com/images/icons/kanban.svg" alt="Kanban icon" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/trello/trello-plain.svg" alt="Trello logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/slack/slack-original.svg" alt="Slack logo" height=40>
+</span>
 
 > ### Outros
 > ---
-> ![Visual Studio Code logo](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg#skills)
-  ![Bash icon](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg#skills)
-  ![Linux logo](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg#skills)
+> <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash icon" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg" alt="Linux logo" height=40></span>
 
 <br>
 
@@ -67,9 +49,3 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
 
 *⭐️ Baseado em <a href="https://github.com/CallmeMehdi" target="_blank">CallmeMehdi</a> e <a href="https://github.com/johnatas-henrique" target="_blank">johnatas-henrique</a>*<br>
 *<img height="14" src="https://symbols.getvecta.com/stencil_96/138_svg-icon.bc6ac74047.svg"> Ícones svg de <a href="https://github.com/devicons/devicon" target="_blank">Devicons</a> e <a href="https://about.gitlab.com/topics/agile-delivery/" target="_blank" >GitLab</a>*
-
-<style type="text/css" rel="stylesheet">
-  img[src*="#skills"] {
-    height: 3rem;
-  }
-</style>
