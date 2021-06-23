@@ -33,14 +33,14 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
 
 > ### Outros
 > ---
-> <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash icon" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg" alt="Linux logo" height=40></span>
+> <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" height=40> <img src="https://symbols.getvecta.com/stencil_79/71_eslint-icon.f2a69060cd.svg" alt="ESLint logo" height=40> <img src="https://symbols.getvecta.com/stencil_77/22_code-climate-icon.4034b1968c.svg" alt="Code Climate logo" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash icon" height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg" alt="Linux logo" height=40></span>
 
 <br>
 
 ## Contato
 
-- <img height="14" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg"> <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank">LinkedIn</a><br>
-- <img height="14" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg"> <a href="https://github.com/felipe-pimentel" target="_blank">GitHub</a><br>
+- <img height="14" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" > <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank">LinkedIn</a><br>
+- <img height="14" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" alt="GitHub logo"> <a href="https://github.com/felipe-pimentel" target="_blank">GitHub</a><br>
 - 📧 E-mail: lipe.pimentel89@gmail.com
 
 <br>
@@ -48,4 +48,4 @@ Já passei pelo conteúdo de *Front-End* e, agora, estou começando minha caminh
 ---
 
 *⭐️ Baseado em <a href="https://github.com/CallmeMehdi" target="_blank">CallmeMehdi</a> e <a href="https://github.com/johnatas-henrique" target="_blank">johnatas-henrique</a>*<br>
-*<img height="14" src="https://symbols.getvecta.com/stencil_96/138_svg-icon.bc6ac74047.svg"> Ícones svg de <a href="https://github.com/devicons/devicon" target="_blank">Devicons</a> e <a href="https://about.gitlab.com/topics/agile-delivery/" target="_blank" >GitLab</a>*
+*<img height="14" src="https://symbols.getvecta.com/stencil_96/140_svg-icon.bc6ac74047.svg" alt="SVG icon"> Ícones svg de <a href="https://github.com/devicons/devicon" target="_blank">Devicons</a>, <a href="https://vecta.io/symbolsn" target="_blank">Vecta.io</a> e <a href="https://about.gitlab.com/topics/agile-delivery/" target="_blank" >GitLab</a>*
