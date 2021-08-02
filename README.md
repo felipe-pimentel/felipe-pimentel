@@ -2,9 +2,9 @@
 
 Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***Desenvolvimento Web Full-Stack*** na *Trybe*, onde já passei pelo conteúdo de *Front-End* e, agora, estou finalizando minha caminhada pelo *Back-End*.
 
-<br>
-
 ## Um pouco sobre mim
+
+<img align="right" height=400 alt="GIF" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" />
 
 - 💻 Alguns objetivos a curto e médio prazo:
   - Aprender **TypeScript**;
@@ -14,9 +14,8 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
 - 💯 Em breve, vou começar o <a href="https://www.100daysofcode.com" target="_blank">**#100DaysOfCode**</a> para estimular minha criatividade, praticar mais e aprimorar minhas habilidades;
 - ♿ Descobri recentemente sobre o projeto <a href="https://www.a11yproject.com" target="_blank">**A11y**</a>, que visa fazer com que a web seja mais acessível e inclusiva, e estou estudando para aprender mais a respeito e conseguir atender as mais diversas necessidades das pessoas usuárias;
 - :building_construction: Originalmente, sou formado em Engenharia Civil e costumava ter medo de programação. E agora, percebo o quanto eu estava errado;
+- 🎧 ☕ Movido por lofi e café;
 - 🎬 🎮 No meu tempo livre ~~(que agora está meio escasso)~~, gosto principalmente de assistir filmes e jogar.
-
-<br>
 
 ## Linguagens e Ferramentas
 
@@ -54,4 +53,5 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
 ---
 
 *⭐️ Baseado em <a href="https://github.com/CallmeMehdi" target="_blank">CallmeMehdi</a> e <a href="https://github.com/johnatas-henrique" target="_blank">johnatas-henrique</a>*<br>
-*<img height="14" src="https://symbols.getvecta.com/stencil_96/141_svg-icon.bc6ac74047.svg" alt="SVG icon"> Ícones svg de <a href="https://github.com/devicons/devicon" target="_blank">Devicons</a>, <a href="https://vecta.io/symbols" target="_blank">Vecta.io</a> e <a href="https://about.gitlab.com/topics/agile-delivery/" target="_blank" >GitLab</a>*
+*<img height="14" src="https://symbols.getvecta.com/stencil_96/141_svg-icon.bc6ac74047.svg" alt="SVG icon"> Ícones svg de <a href="https://github.com/devicons/devicon" target="_blank">Devicons</a>, <a href="https://vecta.io/symbols" target="_blank">Vecta.io</a> e <a href="https://about.gitlab.com/topics/agile-delivery/" target="_blank" >GitLab</a>*<br>
+*🖌️ Arte de <a href="https://twitter.com/_mienar" target="_blank">mienar</a>. Apoie artistas independentes sempre que possível.*
