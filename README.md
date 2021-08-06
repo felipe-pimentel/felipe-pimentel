@@ -11,8 +11,8 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
   - Aumentar minha proficiência em **React** e agregar frameworks (como *Next.js* e *Gatsby*) para otimizar os meus projetos;
   - Estudar e praticar mais testes unitários e de integração para produzir códigos mais confiáveis.
   - Dominar **CSS** e **Sass** para construir designs melhores sem abandonar princípios de usabilidade e acessibilidade;
-- 💯 Em breve, vou começar o <a href="https://www.100daysofcode.com" target="_blank">**#100DaysOfCode**</a> para estimular minha criatividade, praticar mais e aprimorar minhas habilidades;
-- ♿ Descobri recentemente sobre o projeto <a href="https://www.a11yproject.com" target="_blank">**A11y**</a>, que visa fazer com que a web seja mais acessível e inclusiva, e estou estudando para aprender mais a respeito e conseguir atender as mais diversas necessidades das pessoas usuárias;
+- 💯 Recentemente, comecei o desafio do <a href="https://www.100daysofcode.com" target="_blank">*#100DaysOfCode*</a>, com os objetivos de estimular minha criatividade, praticar mais e aprimorar minhas habilidades. Para ver como estou me saindo, é só clicar <a href="https://github.com/felipe-pimentel/100DaysOfCode" target="_blank">**aqui**</a> ou dar uma olhada no repositório que está pinado logo mais abaixo;
+- ♿ Descobri recentemente sobre o projeto <a href="https://www.a11yproject.com" target="_blank">*A11y*</a>, que visa fazer com que a web seja mais acessível e inclusiva, e estou estudando para aprender mais a respeito e conseguir atender as mais diversas necessidades das pessoas usuárias;
 - :building_construction: Originalmente, sou formado em Engenharia Civil e costumava ter medo de programação. E agora, percebo o quanto eu estava errado;
 - 🎧 ☕ Movido por lofi e café;
 - 🎬 🎮 No meu tempo livre ~~(que agora está meio escasso)~~, gosto principalmente de assistir filmes e jogar.
