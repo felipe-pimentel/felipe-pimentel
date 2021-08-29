@@ -1,6 +1,6 @@
 # Felipe Pimentel <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg"></a>
 
-Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***Desenvolvimento Web Full-Stack*** na *Trybe*, onde já passei pelo conteúdo de *Front-End* e, agora, estou finalizando minha caminhada pelo *Back-End*.
+Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***Desenvolvimento Web Full-Stack*** na *Trybe*, onde já passei pelo conteúdo de *Front-End* e estou finalizando minha caminhada pelo *Back-End*.
 
 ## Um pouco sobre mim
 
