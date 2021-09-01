@@ -1,12 +1,12 @@
 # Felipe Pimentel <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg"></a>
 
-Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***Desenvolvimento Web Full-Stack*** na *Trybe*, onde já passei pelo conteúdo de *Front-End* e estou finalizando minha caminhada pelo *Back-End*.
+Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***Desenvolvimento Web Full-Stack*** na ***[Trybe](https://www.betrybe.com/)***, onde já passei pelo conteúdo de *Front-End* e, agora, estou finalizando minha caminhada pelo *Back-End*.
 
 ## Um pouco sobre mim
 
 <a href="https://mienar.tumblr.com/post/629253134272921600/all-these-late-nights-instagram-twitter-shop" target="_blank"><img align="right" height=400 alt="GIF" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" /></a>
 
-- Em Agosto de 2021, tive oportunidade de ser um dos estudantes escolhidos para fazer a Aceleração, que é um programa extra de 10 semanas, oferecido pela [Trybe](https://www.betrybe.com/) em parceria com a [CI&T](https://ciandt.com/br/pt-br), e que tem o objetivo de ensinar uma nova stack tecnológica para os seus participantes utilizando uma metodologia baseada no aprendizado através de desafios. E a stack oferecida dessa vez foi **Java**.
+- :fast_forward: Em Agosto de 2021, tive oportunidade de ser um dos estudantes escolhidos para fazer a Aceleração, que é um programa extra de 10 semanas, oferecido pela *[Trybe](https://www.betrybe.com/)* em parceria com a *[CI&T](https://ciandt.com/br/pt-br)*, e que tem o objetivo de ensinar uma nova stack tecnológica para os seus participantes utilizando uma metodologia baseada no aprendizado através de desafios. E a stack oferecida dessa vez foi **Java**.
 - 💻 Alguns objetivos a curto e médio prazo:
   - Aumentar minha proficiência em **React** e agregar mais ferramentas pra melhorar o meu fluxo de trabalho no front-end;
   - Aprender **TypeScript**;
