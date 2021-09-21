@@ -33,69 +33,42 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
   </thead>
   <tbody>
     <td align=center>
-      <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-      <br>
-      <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-      <br>
-      <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-      <br>
-      <img src="https://img.shields.io/badge/javascript-333.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-      <br>
-      <img src="https://img.shields.io/badge/react-222.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <br>
-      <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-      <br>
-      <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-      <br>
-      <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-      <br>
+      <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"><br>
+      <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><br>
+      <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"><br>
+      <img src="https://img.shields.io/badge/javascript-333.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"><br>
+      <img src="https://img.shields.io/badge/react-222.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"><br>
+      <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"><br>
+      <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"><br>
+      <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"><br>
       <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
     <td align=center>
-      <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <br>
-      <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-      <br>
-      <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-      <br>
-      <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <br>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <br>
-      <img src="https://img.shields.io/badge/sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
-      <br>
-      <img src="https://img.shields.io/badge/jwt-000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens">
-      <br>
-      <img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
-      <br>
+      <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"><br>
+      <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"><br>
+      <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"><br>
+      <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><br>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><br>
+      <img src="https://img.shields.io/badge/sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"><br>
+      <img src="https://img.shields.io/badge/jwt-000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens"><br>
+      <img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"><br>
       <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
     </td>
     <td align=center>
-      <img src="https://img.shields.io/badge/vs%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-      <br>
-      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <br>
-      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <br>
-      <img src="https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-      <br>
-      <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-      <br>
-      <img src="https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="ESlint">
-      <br>
-      <img src="https://img.shields.io/badge/code%20climate-000.svg?style=for-the-badge&logo=codeclimate&logoColor=white" alt="Code Climate">
-      <br>
-      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-      <br>
+      <img src="https://img.shields.io/badge/vs%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"><br>
+      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br>
+      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><br>
+      <img src="https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"><br>
+      <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"><br>
+      <img src="https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="ESlint"><br>
+      <img src="https://img.shields.io/badge/code%20climate-000.svg?style=for-the-badge&logo=codeclimate&logoColor=white" alt="Code Climate"><br>
+      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"><br>
       <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
     </td>
     <td align=center>
-      <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-      <br>
-      <img src="https://img.shields.io/badge/testing%20library-E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library">
-      <br>
-      <img src="https://img.shields.io/badge/mocha-8D6748.svg?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha">
-      <br>
+      <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"><br>
+      <img src="https://img.shields.io/badge/testing%20library-E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library"><br>
+      <img src="https://img.shields.io/badge/mocha-8D6748.svg?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"><br>
       <img src="https://img.shields.io/badge/chai-A30701.svg?style=for-the-badge&logo=chai&logoColor=white" alt="Chai.js">
     </td>
   </tbody>
