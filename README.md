@@ -24,7 +24,7 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
 
 ## Linguagens e Ferramentas
 
-<table align=center>
+<table>
   <thead>
     <th>FRONT-END</th>
     <th>BACK-END</th>
@@ -72,6 +72,13 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
       <img src="https://img.shields.io/badge/chai-A30701.svg?style=for-the-badge&logo=chai&logoColor=white" alt="Chai.js">
     </td>
   </tbody>
+</table>
+
+<table>
+  <thead>
+    <th>Atualmente aprendendo:</th>
+    <th><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></th>
+  </thead>
 </table>
 
 <br>
