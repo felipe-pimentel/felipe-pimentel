@@ -86,4 +86,4 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
 ---
 
 *:information_source: Tags feitas pelo <a href="https://shields.io" target="_blank">Shield.io</a>*<br>
-*:art: Arte de <a href="https://mienar.com" target="_blank">mienar</a>. Apoie artistas independentes sempre que possível.*
+*:art: Arte de <a href="https://mienar.com" target="_blank">mienar</a>. Apoie artistas independentes sempre que possível*
