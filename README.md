@@ -15,7 +15,6 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
   - Aumentar minha proficiência em **React** e agregar mais ferramentas pra melhorar o meu fluxo de trabalho no front-end;
   - Dominar **CSS** e **Sass** para construir designs melhores sem abandonar princípios de usabilidade e acessibilidade;
   - Aprender **TypeScript**;
-  - Estudar e praticar mais testes unitários e de integração para produzir códigos mais confiáveis.
 - 💯 Estou participando do desafio <a href="https://www.100daysofcode.com" target="_blank">*#100DaysOfCode*</a>, com os objetivos de estimular minha criatividade, praticar mais e aprimorar minhas habilidades. Para ver como estou me saindo, é só clicar <a href="https://100-days-of-code-felipe-pimentel.vercel.app" target="_blank">**aqui**</a> ou dar uma olhada no repositório que está pinado logo mais abaixo;
 - ♿ Descobri recentemente sobre o projeto <a href="https://www.a11yproject.com" target="_blank">*A11y*</a>, que visa fazer com que a web seja mais acessível e inclusiva, e estou estudando para aprender mais a respeito e conseguir atender as mais diversas necessidades das pessoas usuárias;
 - :building_construction: Originalmente, sou formado em Engenharia Civil e costumava ter medo de programação. E agora, percebo o quanto eu estava errado (PS: mas ainda mando bem com números 🔢);
@@ -37,7 +36,7 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
       <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><br>
       <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"><br>
       <img src="https://img.shields.io/badge/javascript-333.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"><br>
-      <img src="https://img.shields.io/badge/react-222.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"><br>
+      <img src="https://img.shields.io/badge/react-222.svg?style=for-the-badge&logo=react" alt="React"><br>
       <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"><br>
       <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"><br>
       <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"><br>
@@ -63,7 +62,7 @@ Olá! Meu nome é **Felipe Pimentel**, sou de Niterói-RJ e sou estudante de ***
       <img src="https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="ESlint"><br>
       <img src="https://img.shields.io/badge/code%20climate-000.svg?style=for-the-badge&logo=codeclimate&logoColor=white" alt="Code Climate"><br>
       <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"><br>
-      <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+      <img src="https://img.shields.io/badge/bash-111.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"><br>
