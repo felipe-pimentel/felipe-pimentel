@@ -55,8 +55,9 @@ let felipePimentel = {
         ],
     },
     currentlyLearning: [
+        'UI/UX',
         'Vue.js',
-        'Python'
+        'Python',
     ],
     hobbies: ['movies', 'games'],
 };
