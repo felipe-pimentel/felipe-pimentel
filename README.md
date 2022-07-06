@@ -1,71 +1,83 @@
-# Hi! My name is Felipe Pimentel! :wave:
+<h1 align=center>Felipe Pimentel</h1>
 
-<table align=right>
-  <tbody>
-    <td>
-      <a align=center href="https://mienar.tumblr.com/post/629253134272921600/all-these-late-nights-instagram-twitter-shop" target="_blank">
-        <img height=320 alt="GIF" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" />
-      </a><br>
-      <h2 align=center>Contact</h2>
-      <p align=center>
-        <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank">
-          <img align=center alt="LinkedIn link" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-        </a>
-      </p>
-      <p align=center>
-        <a href="mailto:lipe.pimentel89@gmail.com" target="_blank">
-          <img align=center alt="Email link" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-        </a>
-      </p>
-      <br>
-    </td>
-  </tbody>
-</table>
+<div align=center>
 
-```js
-let felipePimentel = {
-    location: {
-        city: 'Niterói',
-        state: 'Rio de Janeiro',
-        country: 'Brazil'
-    },
-    age: 32,
-    pronouns: ['he', 'him'],
-    workingAt: 'Vizir Software Studio',
-    languagesAndTools: {
-        languages: ['JavaScript'],
-        frontEnd: [
-            'HTML', 'CSS', 'Sass',
-            'React', 'Redux', 'Next.js',
-            'Styled Components', 'Figma',
-        ],
-        backEnd: [
-            'Node.js', 'npm', 'Express',
-            'MongoDB', 'MySQL', 'Sequelize',
-            'JWT', 'Socket.io', 'Heroku',
-        ],
-        misc: [
-            'VS Code', 'Git', 'GitHub',
-            'Trello', 'Slack', 'ESLint',
-            'Code Climate', 'Linux',
-        ],
-        testing: [
-            'Jest', 'Testing Library',
-            'Mocha', 'Chai',
-        ],
-    },
-    currentlyLearning: [
-        'UI/UX',
-        'Vue.js',
-        'Python',
-    ],
-    hobbies: ['movies', 'games'],
-};
-```
+  :keyboard: ~~Full-Stack~~ Front-End Developer
 
-<br>
+  :computer_mouse: UI/UX Designer ~~wannabe~~
+
+  :round_pushpin: Rio de Janeiro, Brazil :brazil:
+
+  :speaking_head: Portuguese (native), English (advanced)
+
+  :man: he / him / ele / dele
+
+  <p align=center>
+    <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank">
+      <img alt="LinkedIn link" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:lipe.pimentel89@gmail.com" target="_blank">
+      <img alt="Email link" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-*:information_source: Tags made in <a href="https://shields.io" target="_blank">Shield.io</a>*<br>
-*:art: Art by <a href="https://mienar.com" target="_blank">mienar</a>*
+> :brazil: :portugal:
+
+Sou um ex-engenheiro civil que recentemente transicionou para o desenvolvimento web. Em 2020, eu entrei num curso de Desenvolvimento Web Full-Stack e aprendi muitas coisas, desde HTML básico até frameworks mais avançadas de JavaScript, tanto para front quanto pra back-end.
+
+Embora eu tenha saiba um pouco sobre back-end, meu foco principal é desenvolvimento front-end, utilizando React (e Vue, em breve).
+
+E para melhorar a qualidade do meu trabalho, eu estou sempre buscando aprender novas coisas para complementar o meu conjunto de habilidades, como novas ferramentas de desenvolvimento ou conceitos de UI/UX design.
+
+> :uk: :us:
+
+I'm a former Civil Engineer who recently switched to web development. Back in 2020, I enrolled on a Full-Stack Development course and learned a lot of things, from basic HTML to more advanced JavaScript frameworks for both front and back-end development.
+
+While I know a little bit of backend, my main focus is front-end development using React (and Vue, soon enough).
+
+And to improve the quality of my work, I'm always trying to learn new things to complement my skill set, like new development tools or UI/UX design concepts.
+
+<h3 align=center>Main Stack &amp Tools</h3>
+<p align=center>
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Nextdotjs&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+</p>
+
+<h3 align=center>Currently Learning</h3>
+<p align=center>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-eeefee?style=for-the-badge&logo=vuedotjs" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+<h3 align=center>Secondary Skills</h3>
+<p align=center>
+  <img alt="Node.js" src="https://img.shields.io/badge/-node.js-233056?style=for-the-badge&logo=nodedotjs" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3E2D1D?style=for-the-badge&logo=mongodb" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h3 align=center>Misc</h3>
+<p align=center>
+  <img alt="Git" src="https://img.shields.io/badge/-git-111?style=for-the-badge&logo=git" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-ffddd0?style=for-the-badge&logo=gitlab" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+---
+
+:information_source: *Tags made in <a href="https://shields.io" target="_blank">Shield.io</a>*<br>
