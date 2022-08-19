@@ -88,4 +88,4 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 
 ---
 
-:information*source: \_Tags made in <a href="https://shields.io" target="_blank">Shield.io</a>*<br>
+:information_source: _Tags made in <a href="https://shields.io" target="_blank">Shield.io</a>_
