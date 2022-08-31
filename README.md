@@ -57,7 +57,8 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 <p align=center>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <!-- <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /> -->
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Material Design" src="https://img.shields.io/badge/-Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
 </p>
 
 <h3 align=center>Secondary Skills</h3>
@@ -88,4 +89,4 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 
 ---
 
-:information_source: _Tags made in <a href="https://shields.io" target="_blank">Shield.io</a>_
+:information*source: \_Tags made in <a href="https://shields.io" target="_blank">Shield.io</a>*
