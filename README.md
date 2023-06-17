@@ -1,10 +1,8 @@
-<h1 align=center>Felipe Pimentel</h1>
+<h1 align=center>Felipe Pimentel <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg"></a></h1>
 
 <div align=center>
 
-:keyboard: ~~Full-Stack~~ Front-End Developer
-
-:computer_mouse: UI/UX Designer ~~wannabe~~
+:keyboard: Front-End Developer
 
 :round_pushpin: Rio de Janeiro, Brazil :brazil:
 
@@ -12,15 +10,20 @@
 
 :man: he / him / ele / dele
 
-  <p align=center>
-    <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank">
-      <img alt="LinkedIn link" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:lipe.pimentel89@gmail.com" target="_blank">
-      <img alt="Email link" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-  </p>
 </div>
+
+---
+
+<h4>
+  Currently Working with:
+</h4>
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
+  <img alt="RxJS" src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=reactivex" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+</p>
 
 ---
 
@@ -42,12 +45,13 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 
 <h3 align=center>Main Stack &amp Tools</h3>
 <p align=center>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p align=center>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
+  <img alt="RxJS" src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=reactivex" />
 </p>
 
 <p align=center>
@@ -58,32 +62,20 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 </p>
 
 <p align=center>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
-  <img alt="RxJS" src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=reactivex" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <br>
-
-<h4 align=center>Currently Learning</h4>
-<p align=center>
-  <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-eeefee?style=for-the-badge&logo=vuedotjs" />
-  <img alt="Nuxt.js" src="https://img.shields.io/badge/-nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-</p>
-
-<h4 align=center>Design Skills</h4>
-<p align=center>
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img alt="Material Design" src="https://img.shields.io/badge/-Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-</p>
 
 <h4 align=center>Misc</h4>
 <p align=center>
   <img alt="Git" src="https://img.shields.io/badge/-git-111?style=for-the-badge&logo=git" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-ffddd0?style=for-the-badge&logo=gitlab" />
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img alt="Trello" src="https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 </p>
 
 <h4 align=center>Secondary Skills</h4>
@@ -97,10 +89,11 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 
 <h4 align=center>Skills to Learn/Develop More</h4>
 <p align=center>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-eeefee?style=for-the-badge&logo=vuedotjs" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/-nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
-  <!-- <img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> -->
 </p>
 
 ---
 
-:information_source: _Badges made with <a href="https://shields.io" target="_blank">Shield.io</a>_
+:information*source: \_Badges made with <a href="https://shields.io" target="_blank">Shield.io</a>*
