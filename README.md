@@ -19,9 +19,12 @@
 </h4>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular" />
   <img alt="RxJS" src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=reactivex" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Angular Material" src="https://img.shields.io/badge/-Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Elf" src="https://img.shields.io/badge/-Elf-B668E4?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 </p>
 
@@ -50,9 +53,10 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 </p>
 
 <p align=center>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular" />
   <img alt="RxJS" src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=reactivex" />
-</p>
+  <img alt="Angular Material" src="https://img.shields.io/badge/-Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Elf" src="https://img.shields.io/badge/-Elf-B668E4?style=for-the-badge&logo=angular&logoColor=white" />
 
 <p align=center>
   <img alt="React" src="https://img.shields.io/badge/-React-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
@@ -66,6 +70,10 @@ And to improve the quality of my work, I'm always trying to learn new things to 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<p align=center>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 <br>
