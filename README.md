@@ -1,8 +1,8 @@
-<h1 align=center>Felipe Pimentel <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg"></a></h1>
+<h1 align=center>Felipe Pimentel <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank"><img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original.svg"></a></h1>
 
 <div align=center>
 
-:keyboard: Front-End Developer
+:keyboard: Front-End Software Engineer
 
 :round_pushpin: Rio de Janeiro, Brazil :brazil:
 
@@ -14,37 +14,41 @@
 
 ---
 
-<h4>
-  Currently Working with:
-</h4>
-<p>
+<h4 align=center>Currently working with:</h4>
+<p align=center>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
+</p>
+<p align=center>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="DotNet" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+<p align=center>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular" />
   <img alt="RxJS" src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=reactivex" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Angular Material" src="https://img.shields.io/badge/-Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="Elf" src="https://img.shields.io/badge/-Elf-B668E4?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 </p>
 
 ---
 
-> :brazil: :portugal:
-
-Sou um ex-engenheiro civil que recentemente transicionou para o desenvolvimento web. Em 2020, eu entrei num curso de Desenvolvimento Web Full-Stack e aprendi muitas coisas, desde HTML básico até frameworks mais avançadas de JavaScript, tanto para front quanto pra back-end.
-
-Embora eu tenha saiba um pouco sobre back-end, meu foco principal é desenvolvimento front-end, utilizando frameworks populares como React e Angular. Também possuo um conhecimento básico de Vue e espero aprender mais a respeito em breve.
-
-E para melhorar a qualidade do meu trabalho, eu estou sempre buscando aprender novas coisas para complementar o meu conjunto de habilidades, como novas ferramentas de desenvolvimento ou conceitos de UI/UX design.
-
 > :uk: :us:
 
-I'm a former Civil Engineer who recently switched to web development. Back in 2020, I enrolled on a Full-Stack Development course and learned a lot of things, from basic HTML to more advanced JavaScript frameworks for both front and back-end development.
+I'm a software engineer with nearly 4 years of experience in web development, focused on front-end and involved in high-impact projects with international teams. I currently work at Questrade Financial Group, where I’ve had the opportunity to grow quickly — progressing from junior developer to technical reference across multiple projects, including an insurance platform where I spent over two years working with TypeScript, Angular, RxJS, and Tailwind CSS. During this time, I was recognized with an internal award for demonstrating initiative and actively contributing to technical and collaborative discussions.
 
-While I know a little bit of backend, my main focus is front-end development using popular frameworks like React and Angular. I also have some basic knowledge of Vue and I hope to learn more about it soon.
+I have an academic background in Civil Engineering and a postgraduate degree in Business Administration, which helps me bring an analytical and structured approach to the projects I’m involved in. I value clean code, best practices, and the importance of sharing knowledge with my peers.
 
-And to improve the quality of my work, I'm always trying to learn new things to complement my skill set, like new development tools or UI/UX design concepts.
+Currently, I’m working mainly with React Native and looking to expand my technical stack by learning technologies like C# and .NET.
+
+> :brazil: :portugal:
+
+Sou engenheiro de software com quase 4 anos de experiência em desenvolvimento web, com foco em front-end e atuação em projetos de grande impacto e com times internacionais. Atualmente, trabalho na Questrade Financial Group, onde tive a oportunidade de evoluir rapidamente, passando de júnior a referência técnica em diversos projetos — incluindo um de seguros, no qual atuei por mais de dois anos utilizando TypeScript, Angular, RxJS e Tailwind CSS. Nesse período, fui reconhecido com um prêmio interno por demonstrar proatividade e por contribuir diretamente para discussões técnicas e colaborativas.
+
+Tenho formação prévia em Engenharia Civil e pós-graduação em Administração de Empresas, o que contribui para uma visão analítica e estruturada dos projetos nos quais atuo. Acredito em código limpo, boas práticas e na importância de compartilhar conhecimento.
+
+Atualmente, trabalho principalmente com React Native e busco expandir meu repertório técnico, incluindo novas tecnologias como C# e .NET.
 
 <h3 align=center>Main Stack &amp Tools</h3>
 <p align=center>
@@ -61,7 +65,6 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 <p align=center>
   <img alt="React" src="https://img.shields.io/badge/-React-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Nextdotjs&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
 </p>
 
@@ -90,18 +93,11 @@ And to improve the quality of my work, I'm always trying to learn new things to 
 <p align=center>
   <img alt="Node.js" src="https://img.shields.io/badge/-node.js-233056?style=for-the-badge&logo=nodedotjs" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3E2D1D?style=for-the-badge&logo=mongodb" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<h4 align=center>Skills to Learn/Develop More</h4>
-<p align=center>
-  <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-eeefee?style=for-the-badge&logo=vuedotjs" />
-  <img alt="Nuxt.js" src="https://img.shields.io/badge/-nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-222?style=for-the-badge&logo=React&logoColor=61DAFB" />
+  <img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="DotNet" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ---
 
-:information_source: _Badges made with <a href="https://shields.io" target="_blank">Shield.io</a>_
+:information*source: \_Badges made with <a href="https://shields.io" target="_blank">Shield.io</a>*
