@@ -100,4 +100,4 @@ Atualmente, trabalho principalmente com React Native e busco expandir meu repert
 
 ---
 
-:information*source: \_Badges made with <a href="https://shields.io" target="_blank">Shield.io</a>*
+:information_source: *Badges made with <a href="https://shields.io" target="_blank">Shield.io</a>*
